@@ -28,7 +28,7 @@
 // int[] array = FillArray(5);
 // PrintArray(array);
 
-// System.Console.WriteLine($"Положительных элементов в массиве: {FindCountPositivNumber(array)}");
+// System.Console.WriteLine($"Четных чисел в массиве: {FindCountPositivNumber(array)}");
 
 
 
